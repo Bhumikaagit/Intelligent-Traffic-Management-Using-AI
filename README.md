@@ -16,5 +16,5 @@ traffic signal timing to help ease congestion at junctions.
 
 # Tech Stack
  Python, Pandas, NumPy
- Scikit-learn (Random Forest)
+ Scikit learn (Random Forest)
  Matplotlib, Seaborn
